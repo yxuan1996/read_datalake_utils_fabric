@@ -8,6 +8,11 @@ Contains utility functions for reading files from Azure Data Lake using MS Fabri
 - `read_latest(directory_path: str)` - Find most recent CSV file based on modification time
 - `read_and_combine(directory_path: str)` - Read and combine all CSV files in a directory
 
+## Download the latest release
+```
+pip install https://github.com/yxuan1996/read_datalake_utils_fabric/releases/download/Production/data_quality_utils-0.3.5-py3-none-any.whl
+```
+
 ## Building the wheel
 `setup.py` contains instructions on how to package the module. 
 
