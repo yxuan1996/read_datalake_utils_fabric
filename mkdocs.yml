@@ -1,0 +1,10 @@
+site_name: read_datalake_utils_fabric
+site_description: Utility functions for reading CSV files from Azure Data Lake using Microsoft Fabric notebooks.
+repo_name: yxuan1996/read_datalake_utils_fabric
+repo_url: https://github.com/yxuan1996/read_datalake_utils_fabric
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - API Reference: api.md
+use_directory_urls: false

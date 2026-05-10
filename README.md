@@ -13,6 +13,9 @@ Contains utility functions for reading files from Azure Data Lake using MS Fabri
 pip install https://github.com/yxuan1996/read_datalake_utils_fabric/releases/download/Production/read_datalake_utils-0.2.0-py3-none-any.whl
 ```
 
+## View Documentation
+[Documentation](https://yxuan1996.github.io/read_datalake_utils_fabric/)
+
 ## Building the wheel
 `setup.py` contains instructions on how to package the module. 
 
