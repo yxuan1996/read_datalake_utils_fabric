@@ -10,7 +10,7 @@ Contains utility functions for reading files from Azure Data Lake using MS Fabri
 
 ## Download the latest release
 ```
-pip install https://github.com/yxuan1996/read_datalake_utils_fabric/releases/download/Production/data_quality_utils-0.3.5-py3-none-any.whl
+pip install https://github.com/yxuan1996/read_datalake_utils_fabric/releases/download/Production/read_datalake_utils-0.2.0-py3-none-any.whl
 ```
 
 ## Building the wheel
