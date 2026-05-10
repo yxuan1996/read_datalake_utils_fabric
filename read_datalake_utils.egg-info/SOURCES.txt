@@ -1,0 +1,8 @@
+README.md
+read_datalake_utils.py
+setup.py
+read_datalake_utils.egg-info/PKG-INFO
+read_datalake_utils.egg-info/SOURCES.txt
+read_datalake_utils.egg-info/dependency_links.txt
+read_datalake_utils.egg-info/requires.txt
+read_datalake_utils.egg-info/top_level.txt
